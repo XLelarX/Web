@@ -1,0 +1,38 @@
+.font {
+    font-family: "Courier", serif;
+}
+
+.buttons {
+    border-radius: 10px/20px;
+    border-color: white;
+    background: blue;
+    color: white;
+}
+
+.buttons:hover {
+    border-radius: 10px/20px;
+    border-color: white;
+    background: cadetblue;
+    color: white;
+}
+
+#in {
+    border-radius: 10px/20px;
+    border-color: blue;
+}
+
+#renderList {
+    width: 40%;
+}
+
+li {
+    list-style-type: none;
+    border-radius: 10px/20px;
+    border-color: white;
+    background: blue;
+    color: white;
+}
+
+ul {
+    padding-top: 10px;
+}
